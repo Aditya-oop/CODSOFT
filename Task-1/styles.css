@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: khaki;
+    line-height: 1.5;
+}
+
+header {
+    background: black;
+    color: beige;
+    text-align: center;
+    padding: 0%;
+}
+
+section {
+    background: burlywood;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: darkslategray;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+.project {
+    margin-bottom: 15px;
+}
+
+a {
+    color: crimson;
+    text-decoration: dotted;
+}
+
+footer {
+    background: silver;
+    color: maroon;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
