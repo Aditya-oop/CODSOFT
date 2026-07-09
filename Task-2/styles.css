@@ -1,0 +1,76 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: tan;
+}
+
+header {
+    background: crimson;
+    color: rgb(96, 181, 79);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: dotted;
+    margin-left: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: burlywood;
+}
+
+.hero h2 {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: crimson;
+    cursor: pointer;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 50px 20px;
+
+}
+
+.box {
+    width: 250px;
+    padding: 20px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.About {
+    text-align: center;
+    padding: 50px 20px;
+    color: brown;
+}
+
+.contact {
+    text-align: center;
+    padding: 25px 10px;
+    color: cadetblue;
+}
+
+footer {
+    background: crimson;
+    color: beige;
+    text-align: center;
+    padding: 15px;
+}
